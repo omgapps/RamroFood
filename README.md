@@ -3,7 +3,7 @@ This page is used to inform visitors regarding our policies with the collection,
                 
 Information Collection and Use
                 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email address. The information that I request will be used for your authorization to use our services using our api. 
+For a better experience, while using our Service, We will require you to provide us with certain personal and internal account information, including but not limited to email address. The information that we request will be uploaded to our api https://api.ramrofood.com used for your authorization to use our services. 
                 
 Log Data
 
